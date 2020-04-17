@@ -163,7 +163,7 @@
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(149, 66);
             this.button8.TabIndex = 0;
-            this.button8.Text = "Arduino";
+            this.button8.Text = "Arduin";
             this.button8.UseVisualStyleBackColor = false;
             // 
             // groupBox3
